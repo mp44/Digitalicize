@@ -1,0 +1,49 @@
+{
+    "appKeys": {
+        "KEY_CELSIUS": 3,
+        "KEY_CONDITIONS": 2,
+        "KEY_TEMPERATURE": 1,
+        "KEY_USE_CELSIUS": 4
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "andyjjwei@gmail.com",
+    "longName": "Project 1.1",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/DS-DIGII.ttf",
+                "name": "FONT_DIGII_20",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/DS-DIGII.ttf",
+                "name": "FONT_DIGII_48",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Project 1.1",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "4338bf4f-427c-4b5d-8d43-b1056945f115",
+    "versionLabel": "1.3",
+    "watchapp": {
+        "watchface": true
+    }
+}
